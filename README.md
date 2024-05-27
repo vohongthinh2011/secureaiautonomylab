@@ -1,11 +1,19 @@
-# utsaopencloudinstitute
+# Paul Rad
+Associate Professor, Senior Member IEEE
 
-# Short Bio
-Associate Professor, Senior Memeber IEEE
+## Research Interests
+- AI Security
+- Knowledge Representation
+- Probabilistic Decision Making
+- Reinforcement Learning
 
-# Research Interest
+## Education
+- PhD. in Electrical and Computer Engineering; University of Texas at San Antonio
+- M.S. in Computer Science; University of Texas at San Antonio
+- M.S. in Computer Engineering and Artificial Intelligence; Polytechnic, Iran
+- B.S. in Computer Science; Sharif University of Technology, Iran
 
-# Publications
+## Publications
 
 # Teaching
 
