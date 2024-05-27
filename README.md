@@ -1,4 +1,4 @@
-# Paul Rad
+# Dr. Paul Rad
 Associate Professor, Senior Member IEEE
 
 ## Research Interests
