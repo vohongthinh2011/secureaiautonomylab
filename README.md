@@ -1,6 +1,6 @@
 # Dr. Paul Rad
 Associate Professor, Senior Member IEEE
-The University of Texas at San Antonio
+at The University of Texas at San Antonio
 
 ## Research Interests
 - AI Security
